@@ -11,6 +11,9 @@
 - Change player names
 - Track user selections
 
+## Tech Stack:
+
+- ⚛️ React
 
 ### Install Dependencies
 ```shell
